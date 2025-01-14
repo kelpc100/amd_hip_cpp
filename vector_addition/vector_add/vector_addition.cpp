@@ -40,3 +40,4 @@ int main() {
 }
 
 // g++ -o vector_addition vector_addition.cpp
+// ./vector_addition
